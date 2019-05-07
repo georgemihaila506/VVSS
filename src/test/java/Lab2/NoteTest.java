@@ -1,3 +1,5 @@
+package Lab2;
+
 import note.model.Nota;
 import note.repository.NoteRepositoryMock;
 import note.utils.ClasaException;
